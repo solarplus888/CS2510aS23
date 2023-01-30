@@ -2,6 +2,6 @@
 
 Fundamentals II
 Introduction to Class-based Program Design
-Spring 2023 – Accelerated
+Spring 2023
 
 Northeastern University
