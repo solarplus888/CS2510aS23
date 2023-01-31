@@ -1,6 +1,5 @@
-# CS2510aS23
+# CS2510S23
 
-CS2510S23 (non accelerated)
 Fundamentals II
 Introduction to Class-based Program Design 
 Spring 2023
